@@ -75,7 +75,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## External Links
 
-Thank you for visiting my project. If you have feedback, feel free to reach out to me via [LinkedIn](https://www.linkedin.com/).I also have a [blog](https://medium.com/@deniizemre) where I post about Data Science and Operations Research!
+Thank you for visiting my project. If you have feedback, feel free to reach out to me via [LinkedIn](https://www.linkedin.com/). I also have a [blog](https://medium.com/@deniizemre) where I post about Data Science and Operations Research!
 
 
 
