@@ -15,11 +15,10 @@ The essence of the loan business lies in facilitating access to funds for indivi
 The primary goal of this project is to analyze and address the challenges associated with loan defaults in the context of our lending institution. By leveraging data analysis and predictive modeling techniques, the project aims to optimize the loan approval process and reduce the risk of defaults.
 
 **Motivation:** 
-
 In the ever-changing world of finance, my project "Smart Lending: Leveraging Data to Reduce Loan Defaults" aims to harness data and machine learning to transform lending. I am motivated to strike the right balance between risk management and business growth, revolutionizing lending practices for lenders, investors, and borrowers.
 
 ## Data Understanding and Observations 
-The Loan Default Dataset, sourced from Kaggle, includes 148,670 entries across 34 columns of synthetic applicant data. The Loan Default Dataset includes a "Status" column showing if a loan is defaulted or not, along with applicant details. The dataset presents an imbalanced class distribution, a common challenge in predictive modeling. This imbalance has been addressed using specialized methods during the pipeline stages to ensure a more balanced and representative model training process. Techniques such as SMOTE (Synthetic Minority Over-sampling Technique), random undersampling of the majority class, or adjusted class weighting in algorithms could be considered to mitigate this imbalance.
+The Loan Default Dataset, sourced from [Kaggle](https://www.kaggle.com/datasets/yasserh/loan-default-dataset/data), includes 148,670 entries across 34 columns of synthetic applicant data. The Loan Default Dataset includes a "Status" column showing if a loan is defaulted or not, along with applicant details. The dataset presents an imbalanced class distribution, a common challenge in predictive modeling. This imbalance has been addressed using specialized methods during the pipeline stages to ensure a more balanced and representative model training process. Techniques such as SMOTE (Synthetic Minority Over-sampling Technique), random undersampling of the majority class, or adjusted class weighting in algorithms could be considered to mitigate this imbalance.
 
 
 ## Data Science in Loan Approval: An Overview
