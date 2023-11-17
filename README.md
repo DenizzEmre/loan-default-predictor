@@ -39,20 +39,18 @@ I created the above figure to provide a high-level overview of how data science 
 The dataset's synthetic nature may not capture real-world complexities. Key factors like credit scores and loan purpose are oversimplified, and the dataset may omit crucial features that affect loan approval accuracy.
 
 ## Next Steps 
-### Risk Management Strategy: 
-- Recognize multiple interpretations of risk.
-- Conduct thorough risk evaluations to pinpoint high-impact cases.
-- Base risk mitigation and model choices on strategic priorities.
+- Risk Management Strategy: 
+   - Recognize multiple interpretations of risk.
+   - Conduct thorough risk evaluations to pinpoint high-impact cases.
+   - Base risk mitigation and model choices on strategic priorities.
 
-### Domain Knowledge
+-  Domain Knowledge
+   - Leverage industry insights to identify and bridge data gaps.
+   - Aim for a diverse and representative dataset.
 
-- Leverage industry insights to identify and bridge data gaps.
-- Aim for a diverse and representative dataset.
-
-### Continuous Model Enhancement:
-
-- Update models to reflect evolving risk factors and borrower behavior.
-- Ensure models are regularly refined for precise risk assessment.
+ - Continuous Model Enhancement:
+   - Update models to reflect evolving risk factors and borrower behavior.
+   - Ensure models are regularly refined for precise risk assessment.
 
 ## Dependencies
 
