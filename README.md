@@ -32,7 +32,10 @@ I created the above figure to provide a high-level overview of how data science 
    
 2. **Modelling:**  I began modeling with a baseline dummy model, advancing through logistic regression, random forest, KNN, SVM, and XGBoost. The advanced models initially showed high accuracy, prompting a check for data leakage. To investigate, I used cross-validation for consistent performance across data subsets and separate preprocessing pipelines to ensure no test data influence. I carefully reviewed the feature selection after noting similar issues reported for this dataset. Later, implementing PCA helped mitigate overfitting by reducing dimensionality, addressing multicollinearity, and improving model generalization.
    
-3.  **Deployment:** For deployment, I designed a prototype app that uses only five features for illustration. Users input their information, and the app predicts likely default or not. The code for the prototype app is available as 'loanDemo' in the main branch. 
+3.  **Deployment:** For deployment, I designed a prototype app that uses only five features for illustration. Users input their information, and the app predicts likely default or not. The code for the prototype app is available as 'loanDemo' in the main branch. The screenshot of the  prototype app can be seen below.
+
+   ![image info](image/app.png)
+
 
 ## Results  
 
