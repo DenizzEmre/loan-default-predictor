@@ -3,11 +3,12 @@
 
 ## Business Understanding 
 
+**Loan Business:** 
+The essence of the loan business lies in facilitating access to funds for individuals and businesses to meet various financial needs, such as buying homes, expanding businesses, or addressing unexpected expenses. Banks and lenders play a crucial role in this ecosystem by providing loans to borrowers, charging interest rates, and generating revenue from interest payments.
+
 **Loan Default:** 
 Loan default occurs when a borrower fails to meet their contractual obligation of repaying a loan according to the agreed-upon terms. In the world of financial lending, the management of loan defaults is a critical concern for banks and lending institutions. Understanding the dynamics of loan defaults is essential to assess and mitigate risks in the lending business.
 
-**The Loan Business:** 
-The essence of the loan business lies in facilitating access to funds for individuals and businesses to meet various financial needs, such as buying homes, expanding businesses, or addressing unexpected expenses. Banks and lenders play a crucial role in this ecosystem by providing loans to borrowers, charging interest rates, and generating revenue from interest payments.
 
 ## Project Overview 
 
@@ -71,7 +72,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## External Links
 
-Thank you for visiting my project. If you have feedback, feel free to reach out to me via [LinkedIn](https://www.linkedin.com/). I also have a [blog](https://medium.com/@deniizemre) where I post about Data Science and Operations Research!
+Thank you for visiting my project. If you have feedback, feel free to reach out to me via [LinkedIn](https://www.linkedin.com/). I also have a [Blog](https://medium.com/@deniizemre) where I post about Data Science and Operations Research!
 
 
 
