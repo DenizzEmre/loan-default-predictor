@@ -34,7 +34,7 @@ I created the above figure to provide a high-level overview of how data science 
    
 3.  **Deployment:** For deployment, I designed a prototype app that uses only five features for illustration. Users input their information, and the app predicts likely default or not. The code for the prototype app is available as 'loanDemo' in the main branch. The screenshot of the  prototype app can be seen below.
 
-   ![image info](image/app.png)
+   ![image info](image/appDemo.png)
 
 
 ## Results  
