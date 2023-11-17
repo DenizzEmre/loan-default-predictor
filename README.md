@@ -23,7 +23,7 @@ The Loan Default Dataset, sourced from Kaggle, includes 148,670 entries across 3
 
 
 ## Data Science in Loan Approval: An Overview
-![image info](image/process.jpg)
+![image info](image/process.png)
 
 I created the above figure to provide a high-level overview of how data science integrates with the loan approval process. As  I mentioned before, the dataset contains historical loan applications. To improve lending, I have developed machine learning models that analyze financial information provided by borrowers on a P2P platform. These models evaluate the data to decide on loan application approval or rejection.
 
