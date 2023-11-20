@@ -20,7 +20,7 @@ In the ever-changing world of finance, my project "Smart Lending: Leveraging Dat
 
 ## Data Understanding and Observations 
 The Loan Default Dataset, sourced from [Kaggle](https://www.kaggle.com/datasets/yasserh/loan-default-dataset/data), includes 148,670 entries across 34 columns of synthetic applicant data. The Loan Default Dataset includes a "Status" column showing if a loan is defaulted or not, along with applicant details. The dataset presents an imbalanced class distribution, a common challenge in predictive modeling. This imbalance has been addressed using specialized methods during the pipeline stages to ensure a more balanced and representative model training process. Techniques such as SMOTE (Synthetic Minority Over-sampling Technique), random undersampling of the majority class, or adjusted class weighting in algorithms could be considered to mitigate this imbalance.
-
+ 
 
 ## Data Science in Loan Approval: An Overview
 ![image info](image/process.png)
