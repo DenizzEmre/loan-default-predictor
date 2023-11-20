@@ -42,18 +42,22 @@ I created the above figure to provide a high-level overview of how data science 
 ## Limitations
 The dataset's synthetic nature may not capture real-world complexities. Key factors like credit scores and loan purpose are oversimplified, and the dataset may omit crucial features that affect loan approval accuracy.
 
-## Next Steps 
+## Recommendations
 - __Risk Management Strategy:__
-   - Recognize multiple interpretations of risk.
-   - Conduct thorough risk evaluations to pinpoint high-impact cases.
-   - Base risk mitigation and model choices on strategic priorities.
+   - There are multiple interpretations of risk. Therefore, it's essential to perform detailed risk analyses to identify high-impact situations in the loan approval process, because the best model can vary based on strategic priorities.
+
 
 -  __Domain Knowledge:__
-   - Leverage industry insights to identify and bridge data gaps.
-   - Aim for a diverse and representative dataset.
+   - Machine learning offers powerful insights and results, yet it's crucial to integrate domain knowledge to recognize any gaps in our data. Utilize industry insights to discover data gaps, ensuring the dataset is diverse and representative of loan business.
 
-- __Continuous Model Enhancement__:   - Update models to reflect evolving risk factors and borrower behavior.
-   - Ensure models are regularly refined for precise risk assessment.
+- __Continuous Model Enhancement__:
+       - Regularly update models to account for changing risk factors and shifts in borrower behavior. It's important to continually refine these models to achieve more accurate risk assessments.
+
+## Next Steps
+- __Explore new data:__ Address data gaps for more comprehensive loan approval analysis
+- __Explore alternative modeling approaches:__ Enhance prediction capabilities and risk assessment.
+- __Stakeholder Engagement:__ Collaborate with investors and the business team to align data-driven strategies for risk management
+
 
 ## Dependencies
 
