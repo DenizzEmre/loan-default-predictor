@@ -45,9 +45,9 @@ The dataset's synthetic nature may not capture real-world complexities. Key fact
 ## Recommendations
 1. **Risk Management Strategy:** There are multiple interpretations of risk. Therefore, it's essential to perform detailed risk analyses to identify high-impact situations in the loan approval process, because the best model can vary based on strategic priorities.
 
-2. **Domain Knowledge:**: Machine learning offers powerful insights and results, yet it's crucial to integrate domain knowledge to recognize any gaps in our data. Utilize industry insights to discover data gaps, ensuring the dataset is diverse and representative of loan business.
+2. **Domain Knowledge:** Machine learning offers powerful insights and results, yet it's crucial to integrate domain knowledge to recognize any gaps in our data. Utilize industry insights to discover data gaps, ensuring the dataset is diverse and representative of loan business.
 
-3. **Continuous Model Enhancement:**: Regularly update models to account for changing risk factors and shifts in borrower behavior. 
+3. **Continuous Model Enhancement:** Regularly update models to account for changing risk factors and shifts in borrower behavior. 
 
 ## Next Steps
 1. **Explore new data:** Address data gaps for more comprehensive loan approval analysis
