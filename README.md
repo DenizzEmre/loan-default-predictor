@@ -37,7 +37,10 @@ I created the above figure to provide a high-level overview of how data science 
    ![image info](image/appDemo.png)
 
 
-## Results  
+## Model Evaluation 
+
+![image info](image/evaluation.png)
+
 
 ## Limitations
 The dataset's synthetic nature may not capture real-world complexities. Key factors like credit scores and loan purpose are oversimplified, and the dataset may omit crucial features that affect loan approval accuracy.
