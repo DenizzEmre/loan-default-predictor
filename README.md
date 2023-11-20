@@ -39,7 +39,7 @@ I created the above figure to provide a high-level overview of how data science 
 
 ## Model Evaluation 
 
-![image info](image/evaluation.png)
+![image info](image/evaluation.png) 
 
 
 ## Limitations
