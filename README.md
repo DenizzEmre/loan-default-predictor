@@ -43,20 +43,16 @@ I created the above figure to provide a high-level overview of how data science 
 The dataset's synthetic nature may not capture real-world complexities. Key factors like credit scores and loan purpose are oversimplified, and the dataset may omit crucial features that affect loan approval accuracy.
 
 ## Recommendations
-- __Risk Management Strategy:__
-   - There are multiple interpretations of risk. Therefore, it's essential to perform detailed risk analyses to identify high-impact situations in the loan approval process, because the best model can vary based on strategic priorities.
+1. **Risk Management Strategy:** There are multiple interpretations of risk. Therefore, it's essential to perform detailed risk analyses to identify high-impact situations in the loan approval process, because the best model can vary based on strategic priorities.
 
+2. **Domain Knowledge:**: Machine learning offers powerful insights and results, yet it's crucial to integrate domain knowledge to recognize any gaps in our data. Utilize industry insights to discover data gaps, ensuring the dataset is diverse and representative of loan business.
 
--  __Domain Knowledge:__
-   - Machine learning offers powerful insights and results, yet it's crucial to integrate domain knowledge to recognize any gaps in our data. Utilize industry insights to discover data gaps, ensuring the dataset is diverse and representative of loan business.
-
-- __Continuous Model Enhancement__:
-       - Regularly update models to account for changing risk factors and shifts in borrower behavior. It's important to continually refine these models to achieve more accurate risk assessments.
+3. **Continuous Model Enhancement:**: Regularly update models to account for changing risk factors and shifts in borrower behavior. 
 
 ## Next Steps
-- __Explore new data:__ Address data gaps for more comprehensive loan approval analysis
-- __Explore alternative modeling approaches:__ Enhance prediction capabilities and risk assessment.
-- __Stakeholder Engagement:__ Collaborate with investors and the business team to align data-driven strategies for risk management
+1. **Explore new data:** Address data gaps for more comprehensive loan approval analysis
+2. **Explore alternative modeling approaches:** Enhance prediction capabilities and risk assessment.
+3. **Stakeholder Engagement:** Collaborate with investors and the business team to align data-driven strategies for risk management.
 
 
 ## Dependencies
@@ -72,6 +68,7 @@ The project utilizes the following libraries:
 - XGBoost
 - LightGBM
 - TensorFlow
+- Keras
 
 ## License
 
